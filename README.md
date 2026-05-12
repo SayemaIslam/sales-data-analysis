@@ -1,4 +1,5 @@
 # 📊 Sales Data Analysis (Power BI Dashboard)
+https://app.powerbi.com/groups/me/reports/e1951665-2f4e-44d0-88d9-866d90e6a017?pbi_source=desktop
 
 ## 📌 Project Overview
 This project presents a Power BI dashboard analyzing sales performance to identify trends, top products, and regional insights.
